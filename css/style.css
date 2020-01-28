@@ -1,0 +1,16 @@
+/* hero section */
+.hero{
+  height: 700px;
+}
+.hero-wrap{
+  text-transform: uppercase;
+}
+.hero-wrap h1{
+  font-size: 55px;
+  margin-top: 20px;
+  font-weight: bolder;
+}
+.hero-wrap p{
+  color: #8c8c8c;
+  font-weight: normal;
+}
